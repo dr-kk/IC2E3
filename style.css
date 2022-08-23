@@ -6,6 +6,16 @@ Useful tools
 
 
 /* Navbar elements */
+.carousel-item {
+    height: 400px;
+  }
+  
+  .carousel-item img {
+      top: 0;
+      left: 0;
+      min-height: 400px;
+  }
+
 .active {
     font-weight: bold;
     text-indent: 0.2em;
