@@ -6,6 +6,10 @@ Useful tools
 
 
 /* Navbar elements */
+.carousel-caption h3,h5 {
+
+    background-color: #ccc;
+  }
 .carousel-item {
     height: 400px;
   }
