@@ -11,7 +11,7 @@ Useful tools
     text-indent: 0.2em;
 }
 
-hr.hrSESTnavbar {
+hr.hrIC2E3navbar {
     margin-bottom: 0em;
     margin-top: 0em;
     border: 0;
@@ -22,7 +22,7 @@ hr.hrSESTnavbar {
 
 /* Body elements */
 
-hr.hrSEST {
+hr.hrIC2E3 {
     margin-bottom: 3em;
     border: 0;
     height: 5px;
@@ -30,7 +30,7 @@ hr.hrSEST {
     background-image: linear-gradient(to right, #ccc, #06307b, #ccc);
 }
 
-hr.hrSESTsecondaryTop {
+hr.hrIC2E3secondaryTop {
     margin-bottom: 1em;
     border: 0;
     height: 2px;
@@ -38,7 +38,7 @@ hr.hrSESTsecondaryTop {
     background-image: linear-gradient(to right, #ccc, #06307b, #ccc);
 }
 
-hr.hrSESTsecondaryBottom {
+hr.hrIC2E3secondaryBottom {
     margin-top: 0;
     margin-bottom: 1em;
     border: 0;
@@ -47,7 +47,7 @@ hr.hrSESTsecondaryBottom {
     background-image: linear-gradient(to right, #ccc, #06307b, #ccc);
 }
 
-hr.hrSESTsecondaryUnderline {
+hr.hrIC2E3secondaryUnderline {
     margin-top: -1em;
     margin-bottom: 1em;
     border: 0;
@@ -57,13 +57,13 @@ hr.hrSESTsecondaryUnderline {
 }
 
 
-.bodyTextSEST {
+.bodyTextIC2E3 {
     color: #002e63;
     font-size: 13pt;
     font-family: "Calibri";
 }
 
-.tableTextSEST {
+.tableTextIC2E3 {
     color: #06307b;
     font-size: 13pt;
     font-family: "Calibri";
@@ -73,7 +73,7 @@ hr.hrSESTsecondaryUnderline {
 
 /* Sidebar elements */
 
-.rightSidebarSEST1 {
+.rightSidebarIC2E31 {
     background-color: #c40c15;
     color: white;
     margin-bottom: 0.5em;
@@ -89,7 +89,7 @@ hr.hrSESTsecondaryUnderline {
     background-image: linear-gradient(to right, #c40c15, #D6555B);
 }
 
-.rightSidebarSEST2 {
+.rightSidebarIC2E32 {
     background-color: #c40c15;
     color: white;
     margin-top: 2em;
@@ -106,7 +106,7 @@ hr.hrSESTsecondaryUnderline {
     background-image: linear-gradient(to right, #c40c15, #D6555B);
 }
 
-.rightSidebarSEST3 {
+.rightSidebarIC2E33 {
     background-color: #c40c15;
     color: white;
     margin-top: 0em;
@@ -143,7 +143,7 @@ hr.hrSESTsecondaryUnderline {
     color: #06307b;
 }
 
-hr.hrSESTFooter {
+hr.hrIC2E3Footer {
     margin-bottom: 1em;
     border: 0;
     height: 2.5px;
