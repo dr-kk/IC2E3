@@ -1,0 +1,180 @@
+/*
+Useful tools
+- Tints and shades for colors: https://maketintsandshades.com
+*/
+
+
+
+/* Navbar elements */
+.active {
+    font-weight: bold;
+    text-indent: 0.2em;
+}
+
+hr.hrSESTnavbar {
+    margin-bottom: 0em;
+    margin-top: 0em;
+    border: 0;
+    height: 1px;
+    background: #06307b;
+    background-image: linear-gradient(to right, #06307b, #06307b, #ccc);
+}
+
+/* Body elements */
+
+hr.hrSEST {
+    margin-bottom: 3em;
+    border: 0;
+    height: 5px;
+    background: #06307b;
+    background-image: linear-gradient(to right, #ccc, #06307b, #ccc);
+}
+
+hr.hrSESTsecondaryTop {
+    margin-bottom: 1em;
+    border: 0;
+    height: 2px;
+    background: #06307b;
+    background-image: linear-gradient(to right, #ccc, #06307b, #ccc);
+}
+
+hr.hrSESTsecondaryBottom {
+    margin-top: 0;
+    margin-bottom: 1em;
+    border: 0;
+    height: 2px;
+    background: #06307b;
+    background-image: linear-gradient(to right, #ccc, #06307b, #ccc);
+}
+
+hr.hrSESTsecondaryUnderline {
+    margin-top: -1em;
+    margin-bottom: 1em;
+    border: 0;
+    height: 1px;
+    background: #06307b;
+    background-image: linear-gradient(to right, #ccc, #06307b, #ccc);
+}
+
+
+.bodyTextSEST {
+    color: #002e63;
+    font-size: 13pt;
+    font-family: "Calibri";
+}
+
+.tableTextSEST {
+    color: #06307b;
+    font-size: 13pt;
+    font-family: "Calibri";
+}
+
+
+
+/* Sidebar elements */
+
+.rightSidebarSEST1 {
+    background-color: #c40c15;
+    color: white;
+    margin-bottom: 0.5em;
+    font-size: 12pt;
+    padding-left: 0.5em;
+    padding-top: 0.2em;
+    padding-bottom: 0.2em;
+    font-weight: bold;
+    font-family: "Calibri";
+    border-left: solid;
+    border-left-width: 0.7em;
+    border-left-color: #385995;
+    background-image: linear-gradient(to right, #c40c15, #D6555B);
+}
+
+.rightSidebarSEST2 {
+    background-color: #c40c15;
+    color: white;
+    margin-top: 2em;
+    margin-bottom: 0em;
+    font-size: 12pt;
+    padding-left: 0.5em;
+    padding-top: 0.2em;
+    padding-bottom: 0.2em;
+    font-weight: bold;
+    font-family: "Calibri";
+    border-left: solid;
+    border-left-width: 0.7em;
+    border-left-color: #385995;
+    background-image: linear-gradient(to right, #c40c15, #D6555B);
+}
+
+.rightSidebarSEST3 {
+    background-color: #c40c15;
+    color: white;
+    margin-top: 0em;
+    margin-bottom: 1em;
+    font-size: 12pt;
+    padding-left: 0.5em;
+    padding-top: 0.2em;
+    padding-bottom: 0.2em;
+    font-weight: bold;
+    font-family: "Calibri";
+    border-left: solid;
+    border-left-width: 0.7em;
+    border-left-color: #385995;
+    background-image: linear-gradient(to right, #c40c15, #D6555B);
+}
+
+.pastUl a {
+    font-size: 13pt;
+    padding-left: 0em;
+    padding-top: 0em;
+    color: #06307b;
+    font-weight: bold;
+    font-family: "Calibri";
+}
+
+
+/* footer elements */
+.footer {
+    margin-top: 1em;
+    padding-top: 1em;
+    padding-bottom: 0em;
+    padding-left: 0.5em;
+    background-color: white;
+    color: #06307b;
+}
+
+hr.hrSESTFooter {
+    margin-bottom: 1em;
+    border: 0;
+    height: 2.5px;
+    background: #06307b;
+    background-image: linear-gradient(to right, #06307b, #ccc);
+}
+
+/* Style all font awesome icons */
+.fa {
+    padding: 10px;
+    font-size: 30px;
+    width: 35px;
+    text-align: center;
+    text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+    opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-linkedin {
+    background: #007bb5;
+    color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
