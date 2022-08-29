@@ -11,7 +11,9 @@ Useful tools
     background-color: #ccc;
   }
 .carousel-item {
-    height: 400px;
+    content: fit;
+
+    height: 700px;;
   }
   
   .carousel-item img {
